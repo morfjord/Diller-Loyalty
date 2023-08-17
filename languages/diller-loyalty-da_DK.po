@@ -1,0 +1,1134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Diller Loyalty\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-16 15:17+0000\n"
+"PO-Revision-Date: 2022-07-18 14:02+0000\n"
+"Last-Translator: \n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-5.9.3\n"
+"X-Domain: diller-loyalty"
+
+#. translators: %d: Field max length
+#: includes/forms/fields/class-diller-base-field.php:210
+msgid " and maximum of %d characters long"
+msgstr "og maks %d tegn"
+
+#. translators: 1: Field name, 2: Field length
+#: includes/forms/fields/class-diller-base-field.php:215
+msgid "%1$s cannot be longer than %2$d characters"
+msgstr "%1$s kan ikke være mer enn %2$d tegn i lengde"
+
+#. translators: 1: Field name, 2: Field min length
+#: includes/forms/fields/class-diller-base-field.php:196
+msgid "%1$s must be minimum %2$d characters long"
+msgstr "%1$s må ha minst %2$d tegn"
+
+#. translators: %s: Field name.
+#: includes/forms/fields/class-diller-base-field.php:169
+msgid "%s is required"
+msgstr "%s er påkrevd"
+
+#: includes/forms/class-diller-enrollment-form.php:58
+msgid "Address"
+msgstr "Adresse"
+
+#: admin/partials/diller-loyalty-admin-settings.php:195
+msgid "After billing details"
+msgstr "Etter faktureringsdetaljer"
+
+#: admin/partials/diller-loyalty-admin-settings.php:38
+msgid "Allow phone numbers from all countries"
+msgstr "Tillat telefonnumre fra andre land"
+
+#: admin/partials/diller-loyalty-admin-settings.php:39
+msgid "Allow phone numbers from all countries, except for…"
+msgstr "Tillat telefonnumre fra alle land, bortsett fra... "
+
+#: admin/partials/diller-loyalty-admin-settings.php:40
+msgid "Allow phone numbers from specific countries"
+msgstr "Tillat telefonnumre fra bestemte land"
+
+#: admin/partials/diller-loyalty-admin-connect.php:48
+msgid "API-Key"
+msgstr "API-nøkkel"
+
+#: includes/class-diller-loyalty-woocommerce.php:247
+#: includes/class-diller-loyalty-woocommerce.php:320
+msgid "Apply"
+msgstr "Bruk"
+
+#: includes/forms/class-diller-wc-enrollment-form.php:172
+msgid ""
+"Are you sure you want to leave the Loyalty Program ? You will miss out on "
+"great our special offers and discounts."
+msgstr "Er du sikker på du ønsker å slette medlemskapet? "
+
+#: includes/forms/class-diller-refer-friend-form.php:121
+msgid "Awaiting registration"
+msgstr "Avventer registrering"
+
+#. translators: 1: is a line break <br>. 2: is the points earned with this purchase
+#: includes/class-diller-loyalty-woocommerce.php:1381
+#| msgid ""
+#| "Become a member of our loyalty program and enjoy benefits and offers that "
+#| "is only available for our members.%1$sWith this purchase you could have "
+#| "earned %2$s points"
+msgid ""
+"Become a member of our loyalty program and enjoy benefits and offers that is "
+"only available for our members. With this purchase you could have earned "
+"%1$s points"
+msgstr ""
+"Bli medlem av kundeklubben for å få eksklusive tilbud og fordeler. Med dette "
+"kjøpet kunne du ha opptjent %1$s poeng."
+
+#. translators: 1: is a line break <br>. 2: link to my account page. 3: closing link
+#: includes/class-diller-loyalty-woocommerce.php:149
+#| msgid ""
+#| "Become a member of our Loyalty Program to get exclusive benefits and "
+#| "offers from us.</br><a href=\"%s\">Click here</a> to enroll now"
+msgid ""
+"Become a member of our Loyalty Program to get exclusive benefits and offers "
+"from us.%1$s%2$sClick here%3$s to enroll now"
+msgstr ""
+"Bli medlem i kundeklubben vår for å få fordeler og nyheter fra oss. "
+"%1$s%2$sKlikk her%3$s for å bli medlem nå."
+
+#: admin/partials/diller-loyalty-admin-settings.php:201
+msgid "Before terms & conditions"
+msgstr "Før vilkår og betingelser"
+
+#: includes/forms/class-diller-enrollment-form.php:80
+msgid "Birth date"
+msgstr "Bursdag"
+
+#: includes/class-diller-loyalty-woocommerce.php:309
+#: includes/class-diller-loyalty-woocommerce.php:391
+#: includes/class-diller-loyalty-woocommerce.php:485
+msgid "Can be used unlimited times"
+msgstr "Kan brukes ubegrenset ganger"
+
+#: admin/partials/diller-loyalty-admin-settings.php:115
+msgid "Choose one or more countries, to display on the top of the list"
+msgstr "Velg ett eller flere land for å vises øverst på listen"
+
+#: includes/forms/class-diller-wc-enrollment-form.php:50
+msgid "Close"
+msgstr "Lukke"
+
+#: admin/partials/diller-loyalty-admin-settings.php:45
+msgid "Completed - The order is delivered and completed."
+msgstr "Afsluttet - Ordren er leveret og gennemført."
+
+#: admin/partials/diller-loyalty-admin-settings.php:125
+msgid "Configure date formats, etc"
+msgstr "Konfigurer datoformater, osv"
+
+#: includes/webhooks/class-diller-rest-endpoints.php:163
+msgid ""
+"Congratulations! We see that you are already a member. Request an SMS with a "
+"verification code to continue."
+msgstr ""
+"Gratulerer! Vi kan se, at du allerede er medlem. Anmod om en sms med en "
+"bekræftelseskode for at fortsætte."
+
+#: includes/forms/class-diller-enrollment-form.php:353
+msgid ""
+"Congratulations! You are now registered successfully in our loyalty program."
+msgstr "Gratulerer! Du er nu registrert i vår kundeklub."
+
+#. translators: 1: link to My Account / Loyalty Program page. 2: closing link
+#: includes/webhooks/class-diller-rest-endpoints.php:296
+msgid ""
+"Congratulations! You will get an SMS shortly with your new password to login "
+"to your account %1$shere%2$s."
+msgstr ""
+"Gratulerer! Du vil snart modtage en SMS med din nye adgangskode for at logge "
+"ind på din konto %1$shere%2$s."
+
+#: admin/partials/diller-loyalty-admin-connect.php:63
+msgid "Connect"
+msgstr "Opret forbindelse"
+
+#: admin/partials/diller-loyalty-admin-connect.php:28
+msgid "Connect your store"
+msgstr "Tilslut din butik"
+
+#: admin/partials/diller-loyalty-admin-connect.php:30
+msgid "Connected successfully"
+msgstr "Tilsluttet"
+
+#: admin/partials/diller-loyalty-admin-connect.php:34
+msgid "Contact your partner to get your API-Key and Store ID."
+msgstr "Kontakt din partner for at få din API-nøgle og \"Store ID\""
+
+#. translators: %s: Error description provided by the API.
+#: admin/class-diller-loyalty-admin.php:188
+msgid "Could not connect store. Details: %s"
+msgstr "Butikken kunne ikke forbindes. Detaljer: %s"
+
+#: includes/class-diller-loyalty-utils.php:247
+msgid "Could not extract the country code from the phone number."
+msgstr "Kunne ikke hente landekode fra telefonnummer"
+
+#: admin/partials/diller-loyalty-admin-settings.php:97
+msgid "Countries"
+msgstr "Lande"
+
+#: includes/forms/class-diller-enrollment-form.php:75
+msgid "Country"
+msgstr ""
+"Land\n"
+
+#: admin/partials/diller-loyalty-admin-settings.php:213
+msgid "Customize how Diller plugin interacts with Woocommerce"
+msgstr "Tilpas, hvordan Diller plugin interagerer med Woocommerce"
+
+#: includes/forms/class-diller-form.php:255
+msgid "Date value cannot be higher than today's date"
+msgstr "Datoværdien må ikke være højere end dagens dato"
+
+#: admin/partials/diller-loyalty-admin-settings.php:130
+msgid "Default date placeholder"
+msgstr "Standard datopladsholder"
+
+#: admin/partials/diller-loyalty-admin-settings.php:69
+msgid "Default phone country code"
+msgstr "Telefonens standard landekode"
+
+#: includes/forms/class-diller-form.php:278
+msgid "Didn't get the code? Resend it >"
+msgstr "Fik du ikke koden? Send det igen >"
+
+#. Author of the plugin
+msgid "Diller AS"
+msgstr "Diller AS"
+
+#. Description of the plugin
+msgid ""
+"Diller is a loyalty platform for businesses that is easy, affordable and "
+"profitable and integrates seamlessly with your WooCommerce shop."
+msgstr ""
+"Diller er en marketingplatform, der opbygger kundeloyalitet, så dine kunder "
+"handler oftere og mere over længere tid. Diller integreres problemfrit med "
+"din WooCommerce butik."
+
+#: admin/class-diller-loyalty-admin.php:110
+msgid "Diller Loyalty"
+msgstr "Diller Lojalitet"
+
+#. Plugin Name of the plugin
+msgid "Diller Loyalty 2"
+msgstr "Diller Lojalitet"
+
+#: includes/class-diller-loyalty-woocommerce.php:281
+#: includes/class-diller-loyalty-woocommerce.php:363
+#: includes/class-diller-loyalty-woocommerce.php:457
+msgid "Discount"
+msgstr "Rabat"
+
+#: admin/class-diller-loyalty-admin.php:125
+msgid "Dismiss this notice."
+msgstr "Afvis meddelelse."
+
+#: admin/partials/diller-loyalty-admin-settings.php:190
+msgid "Display \"Join Loyalty Program\" checkboxes"
+msgstr "Vis afkrydsningsfelterne \"Tilmeld dig kundeklub\"."
+
+#: admin/partials/diller-loyalty-admin-settings.php:196
+msgid ""
+"Display checkboxes for joining the Loyalty Program right after the billing "
+"fields, at checkout. This is the default setting."
+msgstr ""
+"Vis afkrydsningsfelter for at blive medlem af kundeklubben lige efter "
+"faktureringsoplysninger ved kassen. Dette er standardindstillingen."
+
+#: admin/partials/diller-loyalty-admin-settings.php:202
+msgid ""
+"Display checkboxes for joining the Loyalty Program right before the terms "
+"and conditions checkbox field, at checkout."
+msgstr ""
+"Vis afkrydsningsfelter for at blive medlem af kundeklubben lige før "
+"afkrydsningsfeltet for vilkår og betingelser, ved kassen."
+
+#: includes/forms/class-diller-wc-enrollment-form.php:11
+msgid ""
+"E-mail: I want to receive benefits, offers and other marketing "
+"electronically in connection with the customer club by E-mail."
+msgstr ""
+"E-mail: Jeg ønsker at modtage fordele, tilbud og anden markedsføring "
+"elektronisk i forbindelse med kundeklubben på E-mail."
+
+#. translators: %s is the number of points.
+#: includes/forms/class-diller-refer-friend-form.php:51
+msgid ""
+"Earn %s points for each friend you refer to sign up for our Loyalty Program"
+msgstr "Tjen %s point per ven, du henviser til vores kundeklub."
+
+#: includes/forms/class-diller-enrollment-form.php:29
+msgid "Email"
+msgstr "E-mail"
+
+#: admin/partials/diller-loyalty-admin-settings.php:64
+#: admin/partials/diller-loyalty-admin-settings.php:81
+#: admin/partials/diller-loyalty-admin-settings.php:166
+msgid "Enable"
+msgstr "Aktiver"
+
+#: admin/partials/diller-loyalty-admin-settings.php:156
+msgid "Enable and disable features for my account"
+msgstr "Aktiver og deaktiver funktioner for min konto"
+
+#: admin/partials/diller-loyalty-admin-settings.php:162
+msgid "Enable stamps usage"
+msgstr "Aktiver klippekort bruk"
+
+#: admin/partials/diller-loyalty-admin-settings.php:76
+msgid "Enhanced phone field"
+msgstr "Forbedre telefonfelter"
+
+#: admin/partials/diller-loyalty-admin-display.php:56
+msgid "Environment:"
+msgstr "Miljø:"
+
+#: includes/class-diller-loyalty-woocommerce.php:491
+#: includes/class-diller-loyalty-woocommerce.php:632
+#: includes/class-diller-loyalty-woocommerce.php:652
+msgid "expired"
+msgstr "udløbet"
+
+#: includes/class-diller-loyalty-woocommerce.php:491
+#: includes/class-diller-loyalty-woocommerce.php:632
+#: includes/class-diller-loyalty-woocommerce.php:652
+msgid "Expires:"
+msgstr "Udløber:"
+
+#: includes/forms/class-diller-enrollment-form.php:54
+msgid "Female"
+msgstr "Kvinde"
+
+#. translators: %s: Field name.
+#: includes/forms/class-diller-enrollment-form.php:390
+msgid "Field: %s has an invalid date value."
+msgstr "Felt: %s har en ugyldig værdi."
+
+#. translators: %s: Field name.
+#: includes/forms/class-diller-enrollment-form.php:412
+#: includes/forms/fields/class-diller-base-field.php:426
+#, php-format
+msgid "Field: %s is required."
+msgstr "Felt: %s er påkrævet"
+
+#: includes/forms/class-diller-enrollment-form.php:35
+msgid "First Name"
+msgstr "Fornavn"
+
+#: includes/class-diller-loyalty-utils.php:35
+msgid "Fixed"
+msgstr "Beløbsrabat"
+
+#: admin/partials/diller-loyalty-admin-settings.php:123
+msgid "Formats"
+msgstr "Formater"
+
+#: includes/class-diller-loyalty-utils.php:37
+msgid "Free shipping"
+msgstr "Gratis fragt"
+
+#: includes/forms/class-diller-enrollment-form.php:49
+msgid "Gender"
+msgstr "Kjøn"
+
+#. translators: 1: Loyalty Program, Enrollment Form URL (Inside My Account), 2: closing url
+#: includes/forms/class-diller-form.php:269
+msgid "Go to %1$sMy Account%2$s page instead to join the Loyalty Program"
+msgstr "Gå til %1$sMy Account%2$s for at blive medlem af kundeklubben"
+
+#: includes/class-diller-loyalty-woocommerce.php:402
+msgid "Go to coupon"
+msgstr "Gå til kupon"
+
+#: includes/class-diller-loyalty-woocommerce.php:559
+msgid "Go to stamp"
+msgstr "Gå til klippekort"
+
+#. Plugin URI of the plugin
+msgid "https://diller.no/"
+msgstr "https://diller.no/"
+
+#. Author URI of the plugin
+#| msgid "https://diller.no/contact-us"
+msgid "https://diller.no/kontakt/"
+msgstr "https://diller.no/kontakt/"
+
+#: includes/class-diller-loyalty-woocommerce.php:748
+#: includes/forms/class-diller-enrollment-form.php:183
+msgid ""
+"I want to get offers and benefits that suit me based on my preferences and "
+"purchase history."
+msgstr ""
+"Jeg vil gerne have tilbud og fordele, der passer til mig baseret på mine "
+"præferencer og købshistorik."
+
+#. translators: 1: Store Name, 2: link to Terms & Conditions URL, 3: closing url
+#: includes/class-diller-loyalty-woocommerce.php:751
+#: includes/forms/class-diller-enrollment-form.php:186
+#| msgid ""
+#| "I want to join %1$s's loyalty club and receive benefits, offers and other "
+#| "marketing communications electronically, including email, SMS and the "
+#| "like. Read our <a href=\"%2$s\" target=\"_blank\">privacy policy here</a>"
+msgid ""
+"I want to join %1$s's loyalty club and receive benefits, offers and other "
+"marketing communications electronically, including email, SMS and the like. "
+"Read our %2$sprivacy policy here%3$s"
+msgstr ""
+"Jeg melder mig ind i kundeklubben for %1$s og vil modtage fordele, tilbud og "
+"anden markedsføring elektronisk, herunder e-mail, SMS og lignende. %2$sSe "
+"vilkårene her%3$s"
+
+#: admin/partials/diller-loyalty-admin-settings.php:65
+msgid ""
+"If checked, Diller will try to fetch name and address automatically from "
+"1881.no, by using the phone number."
+msgstr ""
+"Hvis markeret, vil Diller hente oplysninger fra 1881.no for telefonnummeret. "
+"(Kun norske telefonnumre virker) "
+
+#: admin/partials/diller-loyalty-admin-settings.php:82
+msgid ""
+"If checked, form displays an enhanced phone input field, with dropdown to "
+"pick country codes and validate phone numbers"
+msgstr ""
+"Hvis markeret, viser formularen et udvidet telefonnummerfelt med en "
+"rullemenu til valg af landekoder og validering af telefonnumre"
+
+#: admin/partials/diller-loyalty-admin-settings.php:167
+msgid "If checked, Stamps feature will be available for this store."
+msgstr "Hvis markeret, vil klippekortfunktionen være tilgængelig for butikken."
+
+#: includes/class-diller-loyalty-api-request.php:199
+msgid ""
+"Invalid authentication. Please make sure you typed the correct API-key and "
+"Store Pin."
+msgstr ""
+"Ugyldig godkendelse. Sørg for, at du har indtastet den korrekte API-nøgle og "
+"StoreID."
+
+#: includes/class-diller-loyalty-utils.php:262
+#: includes/class-diller-loyalty-utils.php:277
+#: includes/class-diller-loyalty-utils.php:294
+msgid "Invalid input. Could not parse phone number."
+msgstr "Ugyldigt input. Kunne ikke genkende mobilnummer"
+
+#: includes/webhooks/class-diller-rest-endpoints.php:222
+msgid "Invalid verification code."
+msgstr "Ugyldig bekræftelseskode"
+
+#: includes/forms/class-diller-refer-friend-form.php:107
+msgid "Invite status"
+msgstr "Invitationsstatus"
+
+#: includes/class-diller-loyalty.php:919
+msgid "Join Loyalty Program"
+msgstr "Bliv medlem af vores kundeklub"
+
+#: includes/class-diller-loyalty-woocommerce.php:1377
+msgid "Join our Loyalty Program for exclusive benefits"
+msgstr "Meld dig ind i vores kundeklub for unikke tilbud og fordele"
+
+#: includes/forms/class-diller-enrollment-form.php:42
+msgid "Last Name"
+msgstr "Efternavn"
+
+#: includes/forms/class-diller-wc-enrollment-form.php:185
+msgid "Leave"
+msgstr "Log ud"
+
+#: includes/class-diller-loyalty-woocommerce.php:44
+#: includes/class-diller-loyalty-woocommerce.php:145
+#: includes/class-diller-loyalty-woocommerce.php:760
+#: includes/class-diller-loyalty-woocommerce.php:1221
+#: includes/class-diller-loyalty-woocommerce.php:1299
+#: includes/class-diller-loyalty-woocommerce.php:1317
+#: includes/class-diller-loyalty-woocommerce.php:1354
+#: includes/forms/class-diller-wc-enrollment-form.php:49
+msgid "Loyalty Program"
+msgstr "Kundeklub"
+
+#. translators: This is the note text to add to the current order. 1: Amount of points earned in this purchase
+#: includes/class-diller-loyalty-woocommerce.php:1186
+msgid "Loyalty Program - Customer earned %1$s points with this purchase."
+msgstr "Kundeklub - Kunden har optjent %1$s point."
+
+#. translators: This is the note text to add to the current order when cancelled. 1: Amount of points earned in this purchase
+#: includes/class-diller-loyalty-woocommerce.php:924
+msgid "Loyalty Program - Order cancelled. %1$s points removed."
+msgstr "Kundeklub - Booking annulleret. %1$s point blev trukket fra."
+
+#: includes/forms/class-diller-wc-enrollment-form.php:171
+msgid "Loyalty Program - Unsubscribe"
+msgstr "Kundeklub - Afmeld"
+
+#: includes/class-diller-loyalty-woocommerce.php:76
+msgid "Loyalty Program Status"
+msgstr "Kundeklubstatus"
+
+#: includes/forms/class-diller-enrollment-form.php:53
+msgid "Male"
+msgstr "Mand"
+
+#: includes/class-diller-loyalty-woocommerce.php:138
+msgid "Member level qualification period"
+msgstr "Kvalifikationsperiode for opgradering af medlemsniveau"
+
+#: admin/partials/diller-loyalty-admin-settings.php:182
+msgid "Minimum age for enrollment"
+msgstr "Aldersgrænse for at blive medlem af en kundeklub"
+
+#: includes/forms/class-diller-enrollment-form.php:19
+msgid "Mobile number"
+msgstr "Mobilnummer"
+
+#: admin/partials/diller-loyalty-admin-settings.php:154
+msgid "My Account"
+msgstr "Min Konto"
+
+#: includes/class-diller-loyalty-woocommerce.php:254
+#: includes/class-diller-loyalty-woocommerce.php:435
+msgid "My Coupons"
+msgstr "Mine kuponer"
+
+#: includes/class-diller-loyalty-woocommerce.php:41
+#: includes/class-diller-loyalty-woocommerce.php:340
+msgid "My coupons"
+msgstr "Mine kuponer"
+
+#: includes/class-diller-loyalty-woocommerce.php:78
+msgid "My level"
+msgstr "Mit niveau"
+
+#: includes/class-diller-loyalty-woocommerce.php:267
+#: includes/class-diller-loyalty-woocommerce.php:349
+#: includes/class-diller-loyalty-woocommerce.php:447
+#: includes/class-diller-loyalty-woocommerce.php:535
+#: includes/class-diller-loyalty-woocommerce.php:603
+msgid "My points"
+msgstr "Mine pointer"
+
+#: includes/class-diller-loyalty-woocommerce.php:42
+#: includes/class-diller-loyalty-woocommerce.php:523
+msgid "My stamp cards"
+msgstr "Mine klippekort"
+
+#: includes/class-diller-loyalty-woocommerce.php:592
+msgid "My stamps"
+msgstr "Mine klippekort"
+
+#: includes/class-diller-loyalty-woocommerce.php:140
+msgid "Never expire"
+msgstr "Går aldrig forældet"
+
+#: includes/forms/class-diller-wc-update-phone-form.php:37
+msgid "New mobile number"
+msgstr "Nyt mobilnummer"
+
+#: includes/forms/fields/class-diller-select-field.php:71
+msgid "None"
+msgstr "Ingen"
+
+#: includes/forms/class-diller-wc-enrollment-form.php:88
+msgid ""
+"Ooops! An error has occurred while trying to unsubscribe you from the "
+"Loyalty Program. Please try again later. If the problem persists please "
+"contact us."
+msgstr ""
+"Ups! Der opstod en fejl under forsøget på at afmelde kundeklubben. Prøv igen "
+"senere. Hvis problemet fortsætter, bedes du kontakte os."
+
+#: includes/forms/class-diller-enrollment-form.php:346
+msgid ""
+"Ooops! An error has occurred while we tried to enroll you in the loyalty "
+"program. Please try again later. If the problem persists please contact us."
+msgstr ""
+"Ups! Der opstod en fejl under forsøget på at blive medlem af kundeklubben. "
+"Prøv igen senere. Hvis problemet fortsætter, bedes du kontakte os."
+
+#: includes/forms/class-diller-wc-enrollment-form.php:134
+msgid ""
+"Ooops! An error has occurred while we tried to update your loyalty program "
+"preferences. Please try again later. If the problem persists please contact "
+"us."
+msgstr ""
+"Ups! Der opstod en fejl under forsøget på at opdatere dine "
+"kundeklubpræferencer. Prøv igen senere. Hvis problemet fortsætter, bedes du "
+"kontakte os."
+
+#: admin/partials/diller-loyalty-admin-settings.php:175
+msgid "Other settings"
+msgstr "Andre indstillinger"
+
+#: admin/partials/diller-loyalty-admin-settings.php:177
+msgid "Other settings for customizing Loyalty Program enrollment"
+msgstr "Øvrige indstillinger for tilpasning af tilmelding til Kundeklubben"
+
+#: includes/class-diller-loyalty-utils.php:33
+msgid "Percentage"
+msgstr "Procent rabat"
+
+#: admin/partials/diller-loyalty-admin-settings.php:52
+msgid "Phone"
+msgstr "Telefonnummer"
+
+#: admin/partials/diller-loyalty-admin-settings.php:60
+msgid "Phone lookup - 1881.no"
+msgstr "Søg telefonnummer på 1881.no (Kun norske numre)"
+
+#: includes/webhooks/class-diller-rest-endpoints.php:143
+msgid "Phone number is available."
+msgstr "Telefonnummer er tilgængeligt."
+
+#: includes/forms/fields/class-diller-phone-field.php:52
+msgid "Phone number is invalid."
+msgstr "Telefonnummeret er ugyldigt"
+
+#: admin/partials/diller-loyalty-admin-settings.php:86
+msgid "Phone numbers allowed"
+msgstr "Telefonnumre tilladt"
+
+#. translators: %s: Field name.
+#: includes/forms/fields/class-diller-email-field.php:44
+#, php-format
+msgid "Please provide a valid value for field: %s ."
+msgstr "Indtast venligst en gyldig feltværdi: %s ."
+
+#: includes/webhooks/class-diller-rest-endpoints.php:186
+msgid "Please wait 2 minutes before requesting another code"
+msgstr "Vent venligst 2 minutter, før du anmoder om en ny kode"
+
+#: includes/class-diller-loyalty-woocommerce.php:83
+#: includes/class-diller-loyalty-woocommerce.php:93
+#: includes/class-diller-loyalty-woocommerce.php:97
+#: includes/class-diller-loyalty-woocommerce.php:267
+#: includes/class-diller-loyalty-woocommerce.php:349
+#: includes/class-diller-loyalty-woocommerce.php:447
+#: includes/class-diller-loyalty-woocommerce.php:535
+#: includes/class-diller-loyalty-woocommerce.php:603
+#: includes/class-diller-loyalty-woocommerce.php:861
+msgid "points"
+msgstr "point"
+
+#: includes/class-diller-loyalty-woocommerce.php:843
+#: includes/class-diller-loyalty-woocommerce.php:879
+#: includes/class-diller-loyalty-woocommerce.php:1356
+#: includes/forms/class-diller-refer-friend-form.php:109
+msgid "Points earned"
+msgstr "Optjente point"
+
+#: includes/forms/class-diller-refer-friend-form.php:127
+msgid "points earned"
+msgstr "point optjent"
+
+#: includes/class-diller-loyalty-woocommerce.php:97
+msgid "Points earned for the period"
+msgstr "Point optjent i perioden"
+
+#: includes/class-diller-loyalty-woocommerce.php:82
+msgid "Points for use"
+msgstr "Points der kan bruges"
+
+#: includes/class-diller-loyalty-woocommerce.php:92
+msgid "Points till next level"
+msgstr "Point til næste niveau"
+
+#: includes/forms/class-diller-enrollment-form.php:67
+msgid "Postal city"
+msgstr "By"
+
+#: includes/forms/class-diller-enrollment-form.php:59
+msgid "Postal code"
+msgstr "Postnummer"
+
+#: includes/forms/class-diller-enrollment-form.php:55
+msgid "Prefer not to answer"
+msgstr "Ønsker ikke at dele"
+
+#: admin/partials/diller-loyalty-admin-settings.php:108
+msgid "Preferred countries"
+msgstr "Foretrukken land"
+
+#: admin/partials/diller-loyalty-admin-settings.php:44
+msgid "Processed - Payment was accepted and order is processing mode."
+msgstr ""
+"Behandles - Betalingen blev accepteret, og ordren er i behandlingstilstand."
+
+#: includes/class-diller-loyalty-woocommerce.php:315
+#: includes/class-diller-loyalty-woocommerce.php:397
+msgid "Promo code"
+msgstr "Rabatkode"
+
+#: includes/class-diller-loyalty-woocommerce.php:497
+msgid "Promo code:"
+msgstr "Rabatkode:"
+
+#: includes/class-diller-loyalty-woocommerce.php:139
+msgid "Qualification period"
+msgstr "Kvalifikationsperiode"
+
+#: includes/class-diller-loyalty-utils.php:422
+#, fuzzy
+#| msgid ""
+#| "Reason: The API was unreachable because no external hosts are allowed on "
+#| "this site."
+msgid ""
+"Reason: The API was unreachable because no external hostss are allowed on "
+"this site."
+msgstr ""
+"Årsag: API var ikke tilgængelig, fordi ingen eksterne værter er tilladt på "
+"denne side."
+
+#: includes/class-diller-loyalty-utils.php:401
+msgid ""
+"Reason: The API was unreachable because the Airplane Mode plugin is active."
+msgstr ""
+"Årsag: API'et var ikke tilgængeligt, fordi plugin'et flytilstand er aktivt."
+
+#: admin/partials/diller-loyalty-admin-connect.php:63
+msgid "Reconnect"
+msgstr "Tilslut igen"
+
+#: includes/class-diller-loyalty-woocommerce.php:43
+#: includes/class-diller-loyalty-woocommerce.php:179
+#: includes/forms/class-diller-refer-friend-form.php:10
+#: includes/shortcodes/class-diller-refer-friend-shortcode.php:15
+msgid "Refer a friend"
+msgstr "Henvis en ven"
+
+#: includes/forms/class-diller-refer-friend-form.php:119
+msgid "Registration completed"
+msgstr "Registrering gennemført"
+
+#: includes/class-diller-loyalty-woocommerce.php:248
+msgid "Remove"
+msgstr "Fjern"
+
+#: includes/webhooks/class-diller-rest-endpoints.php:217
+msgid ""
+"Request token is invalid or expired. Please try again. Try to reload the "
+"page."
+msgstr "Anmodningstokenet er ugyldigt eller udløbet. Prøv at genindlæse siden."
+
+#: includes/webhooks/class-diller-rest-endpoints.php:177
+msgid "Request token is invalid or expired. Try to reload the page."
+msgstr "Anmodningstokenet er ugyldigt eller udløbet. Prøv at genindlæse siden."
+
+#: includes/forms/class-diller-wc-enrollment-form.php:29
+msgid "Save my preferences"
+msgstr "Gem mine præferencer"
+
+#: admin/partials/diller-loyalty-admin-settings.php:235
+msgid "Save Settings"
+msgstr "Gem indstillinger"
+
+#: includes/forms/class-diller-refer-friend-form.php:36
+msgid "Send invitation"
+msgstr "Send invitation"
+
+#: admin/partials/diller-loyalty-admin-settings.php:219
+msgid "Send order to Diller when order status is changed to"
+msgstr "Send ordre til Diller når ordrestatus ændres til"
+
+#: includes/forms/class-diller-form.php:277
+msgid "Send verification code"
+msgstr "Send bekræftelseskode"
+
+#: diller-loyalty.php:139
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: admin/class-diller-loyalty-admin.php:221
+msgid "Settings saved"
+msgstr "Indstillingerne blev gemt"
+
+#: includes/forms/class-diller-form.php:276
+msgid "SMS Code"
+msgstr "SMS-kode"
+
+#: includes/forms/class-diller-wc-enrollment-form.php:10
+msgid ""
+"SMS: I want to receive benefits, offers and other marketing electronically "
+"in connection with the customer club via SMS."
+msgstr ""
+"SMS: Jeg ønsker at modtage fordele, tilbud og anden markedsføring "
+"elektronisk i forbindelse med kundeklubben via SMS."
+
+#: includes/class-diller-loyalty-woocommerce.php:547
+msgid "Stamp can be used"
+msgstr "Klippekort kan bruges"
+
+#: includes/class-diller-loyalty-woocommerce.php:620
+msgid "Stamp can be used:"
+msgstr "Klippekort kan bruges:"
+
+#: includes/class-diller-loyalty-woocommerce.php:638
+msgid "Stamp has been used"
+msgstr "Klippekort er brugt"
+
+#: includes/forms/class-diller-wc-enrollment-form.php:178
+msgid "Stay"
+msgstr "Afbestille"
+
+#: admin/class-diller-loyalty-admin.php:175
+#: admin/partials/diller-loyalty-admin-display.php:53
+msgid "Store connected successfully"
+msgstr "Butikken er tilsluttet"
+
+#: admin/partials/diller-loyalty-admin-connect.php:41
+msgid "Store name"
+msgstr "Butiksnavn"
+
+#: admin/partials/diller-loyalty-admin-connect.php:55
+msgid "Store Pin"
+msgstr "StoreID"
+
+#: includes/class-diller-loyalty-woocommerce.php:1388
+#: includes/forms/class-diller-enrollment-form.php:222
+#: includes/forms/class-diller-wc-enrollment-form.php:30
+msgid "Subscribe"
+msgstr "Bli med"
+
+#: includes/forms/class-diller-refer-friend-form.php:88
+msgid ""
+"Thank you! You friend was successfully invited to join the loyalty program!"
+msgstr "Tak! Din ven blev inviteret til at deltage i kundeklubben!"
+
+#: admin/partials/diller-loyalty-admin-display.php:48
+msgid "Thanks for installing Diller Loyalty"
+msgstr "Tak, fordi du installerede Diller Loyalty"
+
+#. Translators: placeholder adds the response code.
+#: includes/class-diller-loyalty-api-request.php:209
+#, php-format
+msgid "The API returned a <strong>%s</strong> response"
+msgstr "API returnerede et %s svar"
+
+#: includes/class-diller-loyalty-api-request.php:201
+msgid "The API was unreachable."
+msgstr "API var ikke tilgængelig"
+
+#. translators: 1: new line break
+#: admin/partials/diller-loyalty-admin-settings.php:136
+msgid ""
+"The default placeholder for date input fields to provide a hint on how to "
+"type the date.%1$sEg. Norway: dd.mm.åååå, Sweden: åååå-mm-dd, UK: dd/mm/yyyy,"
+" US: mm/dd/yyyyetc."
+msgstr ""
+"Standard datofelt pladsholder for at vise, hvordan du indtaster datoen."
+"%1$sEg. Norge: dd.mm.åååå, Sverige: åååå-mm-dd, Storbritannien: dd/mm/åååå, "
+"USA: mm/dd/åååå."
+
+#: includes/webhooks/class-diller-rest-endpoints.php:236
+msgid "The email provided in invalid."
+msgstr "Du skal angive en gyldig e-mailadresse."
+
+#. translators: This is the text to append to the current order note, if coupons were applied. 1: This is the coupon codes for this order
+#: includes/class-diller-loyalty-woocommerce.php:1192
+msgid "The following coupons were used: %1$s"
+msgstr "Følgende kuponer blev brugt: %1$s"
+
+#: admin/partials/diller-loyalty-admin-settings.php:185
+msgid "The minimum age allowed, for enrolling the Loyalty Program"
+msgstr "Minimumsalderen for at melde sig ind i kundeklubben"
+
+#: includes/forms/class-diller-wc-update-phone-form.php:114
+msgid "The verification code you entered is incorrect."
+msgstr "SMS-koden er forkert."
+
+#: includes/forms/class-diller-refer-friend-form.php:84
+msgid "There is already a member in our loyalty club with this email"
+msgstr "Emailen eksisterer allerede."
+
+#: includes/forms/class-diller-enrollment-form.php:330
+msgid "There is already a member with this phone number associated."
+msgstr "Der er allerede et medlem med dette telefonnummer."
+
+#: includes/forms/class-diller-form.php:266
+#: includes/webhooks/class-diller-rest-endpoints.php:278
+msgid "This email is already in use."
+msgstr "Emailen eksisterer allerede"
+
+#: admin/partials/diller-loyalty-admin-settings.php:93
+msgid ""
+"This option lets you define countries for which phone numbers are allowed or "
+"not."
+msgstr ""
+"Denne indstilling giver dig mulighed for at definere lande, for hvilke "
+"telefonnumre er tilladt eller ej."
+
+#: includes/class-diller-loyalty-woocommerce.php:549
+#: includes/class-diller-loyalty-woocommerce.php:622
+#: includes/class-diller-loyalty-woocommerce.php:638
+msgid "time"
+msgstr "gang"
+
+#: includes/class-diller-loyalty-woocommerce.php:549
+#: includes/class-diller-loyalty-woocommerce.php:622
+#: includes/class-diller-loyalty-woocommerce.php:638
+msgid "times"
+msgstr "gange"
+
+#: includes/class-diller-loyalty-utils.php:31
+msgid "Unknown"
+msgstr "Ukendt"
+
+#: includes/class-diller-loyalty-woocommerce.php:548
+#: includes/class-diller-loyalty-woocommerce.php:621
+msgid "unlimited"
+msgstr "ubegrænset"
+
+#: includes/forms/class-diller-form.php:275
+msgid "Validate code and continue"
+msgstr "Bekræft koden og fortsæt"
+
+#: includes/forms/class-diller-wc-update-phone-form.php:46
+msgid "Verification code (sent by SMS)"
+msgstr "Bekræftelseskode (sendes via SMS)"
+
+#: includes/forms/class-diller-wc-update-phone-form.php:56
+msgid "Verify phone number"
+msgstr "Bekræft mobilnummer"
+
+#: admin/partials/diller-loyalty-admin-display.php:57
+msgid "Version:"
+msgstr "Version:"
+
+#. translators: %s: Phone number.
+#: includes/forms/class-diller-wc-update-phone-form.php:135
+msgid "We could not send the verification code to <b>%s</b>."
+msgstr "Vi klarte ikke at sende SMS kode til <b>%s</b>."
+
+#. translators: %s: Phone number.
+#: includes/forms/class-diller-wc-update-phone-form.php:130
+msgid ""
+"We just sent an SMS to <b>%s</b> with your verification code. It may take "
+"some seconds to arrive."
+msgstr ""
+"SMS-kode sendt til <b>%s</b>. Det kan tage nogle sekunder, før du modtager "
+"SMS'en."
+
+#: includes/webhooks/class-diller-rest-endpoints.php:153
+msgid ""
+"We see that you are already a member, but you didn\\'t fully complete the "
+"registration process. Please continue by requesting a validation code"
+msgstr ""
+"Vi kan se, at du allerede er medlem, men at du ikke har gennemført "
+"registreringsprocessen. Anmod om en sms med en bekræftelseskode for at "
+"fortsætte."
+
+#: includes/webhooks/class-diller-rest-endpoints.php:276
+#: includes/webhooks/class-diller-rest-endpoints.php:286
+msgid "We were unable to get your details from our system"
+msgstr "Vi var ikke i stand til at hente dine oplysninger fra vores system"
+
+#: includes/webhooks/class-diller-rest-endpoints.php:199
+msgid ""
+"We were unable to send you the verification code. Please make sure the phone "
+"number is valid."
+msgstr ""
+"Vi kunne ikke sende bekræftelseskoden via SMS. Sørg for, at telefonnummeret "
+"er gyldigt."
+
+#: includes/webhooks/class-diller-rest-endpoints.php:193
+msgid ""
+"We've sent a 5-digit verification code to your phone. Add it below to "
+"continue logging in."
+msgstr ""
+"Vi har sendt en 5-cifret bekræftelseskode til din mobil. Tilføj det nedenfor "
+"for at fortsætte"
+
+#: includes/forms/class-diller-wc-enrollment-form.php:125
+msgid "Welcome back!"
+msgstr "Velkommen tilbage!"
+
+#: admin/partials/diller-loyalty-admin-settings.php:227
+msgid ""
+"When an order has this status, it will be automatically sent to Diller. By "
+"default, transactions are sent when status is \"completed\""
+msgstr ""
+"Når en ordre har denne status, vil den automatisk blive sendt til Diller. "
+"Som standard, sendes transaktioner når status er \"fuldført\""
+
+#: admin/partials/diller-loyalty-admin-settings.php:211
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: includes/forms/class-diller-wc-enrollment-form.php:82
+msgid ""
+"You are unsubscribed from the Loyalty Program. Please allow 10 days for us "
+"to come to terms with this change and update our system."
+msgstr ""
+"Du er afmeldt loyalitetsprogrammet. Tillad venligst 10 dage for os at komme "
+"overens med denne ændring og opdatere vores system."
+
+#. translators: 1: link to Webshop page. 2: closing link
+#: includes/forms/class-diller-enrollment-form.php:357
+#| msgid ""
+#| "You can access your loyalty program status and benefits by "
+#| "%1$s%2$sclicking here%3$s"
+msgid ""
+"You can access your loyalty program status and benefits by %1$sclicking "
+"here%2$s"
+msgstr "Du kan se din kundeklubstatus og fordele ved %1$sclicking here%2$s"
+
+#: admin/partials/diller-loyalty-admin-display.php:21
+#: includes/class-diller-loyalty-auth.php:23
+msgid "You don't have permission to authenticate Diller Loyalty Plugin."
+msgstr "Du har ikke tilladelse til at autentificere Diller Loyalty Plugin."
+
+#. translators: %s: Remaining coupons usages.
+#: includes/class-diller-loyalty-woocommerce.php:302
+#: includes/class-diller-loyalty-woocommerce.php:384
+#: includes/class-diller-loyalty-woocommerce.php:478
+msgid "You have <b>%s</b> usage left"
+msgid_plural "You have <b>%s</b> usages left"
+msgstr[0] "Kuponen kan bruges <b>%s</b> gang"
+msgstr[1] "Kuponen kan bruges <b>%s</b> gange"
+
+#. translators: 1: Line break 2: Loyalty Program, Enrollment Form URL (Inside My Account), 3: closing url
+#: includes/shortcodes/class-diller-enrollment-form-shortcode.php:24
+msgid ""
+"You have already joined our Loyalty Program.%1$sGo to %2$sMy Account%3$s "
+"page, if you wish to change your preferences and view your benefits."
+msgstr ""
+"Du er allerede medlem af vores kundeklub.%1$s %2$sKlikk her%3$s hvis du vil "
+"gå til \"Min side\" og se dine medlemsfordele eller ændre dine præferencer."
+
+#: includes/class-diller-loyalty-woocommerce.php:328
+#: includes/class-diller-loyalty-woocommerce.php:410
+msgid "You have no coupons available at the time"
+msgstr "Ingen tilgængelige kuponer lige nu"
+
+#: includes/class-diller-loyalty-woocommerce.php:568
+msgid "You have no stamps available at the time"
+msgstr "Du har i øjeblikket ikke et klippekort til rådighed"
+
+#. translators: 1: link to Terms & Conditions URL, 2: closing url
+#: includes/class-diller-loyalty-woocommerce.php:1303
+#| msgid ""
+#| "You have unsubscribed the Loyalty Program. To enroll again and enjoy the "
+#| "benefits, please <a href=\"%s\">click here</a>"
+msgid ""
+"You have unsubscribed the Loyalty Program. To enroll again and enjoy the "
+"benefits, please %1$sclick here%2$s"
+msgstr ""
+"Du er nu afmeldt af kundeklubben. For at blive medlem igen %1$sklikke her%2$s"
+
+#. translators: 1: Minimum age for enrolling the Loyalty Program
+#: includes/forms/class-diller-form.php:260
+#| msgid "You must be at least 15 years old to join the Loyalty Program"
+msgid "You must be at least %1$s years old to join the Loyalty Program"
+msgstr ""
+"Du skal være mindst %1$s år gammel for at blive medlem af vores kundeklub"
+
+#: includes/forms/class-diller-form.php:257
+msgid "You must enter a valid date value"
+msgstr "Indtast venligst en gyldig dato"
+
+#: includes/class-diller-loyalty-woocommerce.php:732
+#: includes/forms/class-diller-form.php:256
+msgid "You must enter a valid mobile number"
+msgstr "Dette er ikke et gyldigt telefonnummer"
+
+#. translators: 1: is a line break <br>. 2: link to Loyalty Program enrollment form URL. 3: closing link
+#: includes/class-diller-loyalty-woocommerce.php:418
+#: includes/class-diller-loyalty-woocommerce.php:508
+#, php-format
+#| msgid ""
+#| "You need to enroll on the Loyalty Program first, before you can access "
+#| "your coupons. To enroll, please <a href=\"%s\">click here</a>"
+msgid ""
+"You need to enroll on the Loyalty Program first, before you can access your "
+"coupons.%1$sTo enroll, please %2$sclick here%3$s"
+msgstr ""
+"Du skal først tilmelde dig loyalitetsprogrammet, før du kan få adgang til "
+"kuponer.%1$sFor at tilmelde dig, venligst %2$sklik her%3$s"
+
+#. translators: 1: link to Loyalty Program enrollment form URL. 2: closing link
+#: includes/class-diller-loyalty-woocommerce.php:665
+#, php-format
+#| msgid ""
+#| "You need to enroll on the Loyalty Program first, before you can access "
+#| "your stamp cards. To enroll, please <a href=\"%s\">click here</a>"
+msgid ""
+"You need to enroll on the Loyalty Program first, before you can access your "
+"stamp cards. To enroll, please %1$sclick here%2$s"
+msgstr ""
+"Du skal først tilmelde dig loyalitetsprogrammet, før du kan få adgang til "
+"dine klippekort. For at tilmelde dig, venligst %1$sklik her%2$s"
+
+#. translators: 1: is a line break <br>. 2: link to Loyalty Program enrollment form URL. 3: closing link
+#: includes/class-diller-loyalty-woocommerce.php:576
+msgid ""
+"You need to enroll on the Loyalty Program first, before you can access your "
+"stamp cards.%1$sTo enroll, please %2$sclick here%3$s"
+msgstr ""
+"Du skal først tilmelde dig loyalitetsprogrammet, før du kan få adgang til "
+"dine klippekort. %1$sFor at tilmelde dig, venligst %2$sklik her%3$s"
+
+#. translators: 1: is a line break <br>. 2: link to Loyalty Program enrollment form URL. 3: closing link
+#: includes/class-diller-loyalty-woocommerce.php:193
+#| msgid ""
+#| "You need to enroll on the Loyalty Program first, before you can invite "
+#| "your friends. To enroll, please <a href=\"%s\">click here</a>"
+msgid ""
+"You need to enroll on the Loyalty Program first, before you can invite your "
+"friends.%1$sTo enroll, please %2$sclick here%3$s"
+msgstr ""
+"Du skal først tilmelde dig loyalitetsprogrammet, før du kan få adgang til "
+"kuponer.%1$sFor at tilmelde dig, venligst %2$sklik her%3$s"
+
+#: includes/class-diller-loyalty-woocommerce.php:234
+msgid ""
+"You need to login and become a member of our Loyalty Program before you can "
+"use this coupon code."
+msgstr ""
+"Du skal logge ind og blive medlem af vores kundeklub, før du kan bruge denne "
+"kupon."
+
+#: admin/partials/diller-loyalty-admin-connect.php:51
+msgid "Your API-Key (32 chars long)"
+msgstr "API-nøgle (32 tegn lang)"
+
+#: includes/forms/class-diller-refer-friend-form.php:30
+#: includes/forms/class-diller-refer-friend-form.php:106
+msgid "Your friend's email"
+msgstr "E-mail"
+
+#: includes/forms/class-diller-refer-friend-form.php:16
+msgid "Your friend's first name"
+msgstr "Fornavn"
+
+#: includes/forms/class-diller-refer-friend-form.php:23
+msgid "Your friend's last name"
+msgstr "Efternavn"
+
+#: includes/forms/class-diller-refer-friend-form.php:105
+msgid "Your friend's name"
+msgstr "Navn"
+
+#: includes/forms/class-diller-wc-enrollment-form.php:122
+msgid "Your loyalty program preferences were successfully updated"
+msgstr "Dine ændringer er blevet opdateret."
+
+#: includes/forms/class-diller-wc-update-phone-form.php:114
+msgid "Your phone number has been successfully changed!"
+msgstr "Dit mobilnummer er ændret."
+
+#: admin/partials/diller-loyalty-admin-connect.php:58
+msgid "Your store PIN (6-digit long)"
+msgstr "StoreID (6 siffer lang)"
